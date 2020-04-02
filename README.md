@@ -6,4 +6,4 @@ This repository contains all the assignments on OS course provided at IIIT Guwah
   1. Custom bash shell using fork() and execvp()
   2. Piping of programs using file descripter
   3. Message Queuing between Terminals aka Terminal Mirroring
-
+  4. Process Synchronization (Producer vs Consumer) + Threading
