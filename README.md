@@ -1,5 +1,5 @@
-# CS235-OperatingSystems
-CS235 2020 Operating Systems Assignments
+# CS232-OperatingSystems
+CS232 2020 Operating Systems Assignments
 
 This repository contains all the assignments on OS course provided at IIIT Guwahati in Winter Semester 2020.
 
